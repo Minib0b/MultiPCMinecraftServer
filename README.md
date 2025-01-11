@@ -2,7 +2,7 @@
 A Python tool that helps groups of people host a minecraft server between different PC's one at a time
 
 ## Dependencies
-You will need to have installed Python (obviously), and the following libraries:
+You will need to have installed Python (obviously), and the following modules:
 - GitPython
 - mcstatus
 
