@@ -1,5 +1,5 @@
 # MultiPCMinecraftServer
-A Python tool that helps groups of people host a minecraft server between different PC's one at a time
+A Python tool that aims to help groups of people host a minecraft server between different PC's one at a time
 
 ## Dependencies
 You will need to have installed Python (obviously), and the following modules:
