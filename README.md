@@ -33,5 +33,5 @@ Feel free to:
 - Open an Issue for suggestions or feature requests.
 - Fork the repository and contribute your own improvements.
 
-## If you want to help me:
+## If you want to help me buy Elden Ring:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J018V8XS)
