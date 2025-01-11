@@ -18,5 +18,9 @@ Yes. But only some variables:
 - **serverPath:** The path where you will be saving the repository and the server files
 - **serverNames:** An array to store the IP's of the different PC's that will host the server
 
+## Note about the server repository
+If you are planning to use a GitHub repository you will need to generate a PAT (Personal Access Token) for your profile, [here's a link](https://www.geeksforgeeks.org/how-to-generate-personal-access-token-in-github/) that explains how to do so.
+Also in the **serverRepo** variable I would use the following value: https://your-username:your-PAT@github.com/username/repository.git
+
 ## Suggestions
 If you have any suggestions, please create an Issue and I will try to implement it. Or you could fork it to do it if you want to.
